@@ -7,7 +7,8 @@
  * @author  Wilmar dos Santos
  **/
 
-define('MYSQL_HOST', 'localhost');
-define('MYSQL_USER', 'root');
-define('MYSQL_PASS', '');
-define('MYSQL_NAME', '');
+define('DB_TYPE', 'mysql');
+define('DB_HOST', 'localhost');
+define('DB_USER', 'root');
+define('DB_PASS', '');
+define('DB_NAME', '');
