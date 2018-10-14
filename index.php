@@ -1,5 +1,7 @@
 <?php
 
+include './inc/incs.php';
+
 if (isset($_GET['p'])) {
 
 	$pag = $_GET['p'];
